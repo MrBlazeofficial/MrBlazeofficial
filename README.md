@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrBlazeofficial
+- 👋 Hi, I’m @MrBlaze
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
 <!---
